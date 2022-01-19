@@ -110,11 +110,11 @@ Reminder: answer the following questions [here](https://forms.gle/6SM7cu4cYhNsRv
 |Question | How can we represent the system in an **architecture diagram**, which gives information both about the Docker containers, the communication protocols and the commands? |
 | | *Insert your diagram here...* |
 |Question | Who is going to **send UDP datagrams** and **when**? |
-| | *Enter your response here...* |
+| | *The musicians every second* |
 |Question | Who is going to **listen for UDP datagrams** and what should happen when a datagram is received? |
-| | *Enter your response here...* |
+| | *The director and it should register the information that he listened* |
 |Question | What **payload** should we put in the UDP datagrams? |
-| | *Enter your response here...* |
+| | *we need to know the kind of instrument, and the sound that he makes* |
 |Question | What **data structures** do we need in the UDP sender and receiver? When will we update these data structures? When will we query these data structures? |
 | | *Enter your response here...* |
 
@@ -126,11 +126,11 @@ Reminder: answer the following questions [here](https://forms.gle/6SM7cu4cYhNsRv
 |Question | In a JavaScript program, if we have an object, how can we **serialize it in JSON**? |
 | | *Enter your response here...*  |
 |Question | What is **npm**?  |
-| | *Enter your response here...*  |
+| | *npm is the package manager for the Node JavaScript platform*  |
 |Question | What is the `npm install` command and what is the purpose of the `--save` flag?  |
-| | *Enter your response here...*  |
+| | *This command installs a package and saves any specified packages into dependencies by default. Additionally, we can control where and how they get saved with the additional flag --save*  |
 |Question | How can we use the `https://www.npmjs.com/` web site?  |
-| | *Enter your response here...*  |
+| | *We can use it to find node package that can be installed with npm*  |
 |Question | In JavaScript, how can we **generate a UUID** compliant with RFC4122? |
 | | *Enter your response here...*  |
 |Question | In Node.js, how can we execute a function on a **periodic** basis? |
@@ -152,9 +152,9 @@ Reminder: answer the following questions [here](https://forms.gle/6SM7cu4cYhNsRv
 |Question | After building our Docker image, how do we use it to **run containers**?  |
 | | *Enter your response here...*  |
 |Question | How do we get the list of all **running containers**?  |
-| | *Enter your response here...*  |
+| | *We use the comand docker ps*  |
 |Question | How do we **stop/kill** one running container?  |
-| | *Enter your response here...*  |
+| | *We use the command docker kill <name_container>*  |
 |Question | How can we check that our running containers are effectively sending UDP datagrams?  |
 | | *Enter your response here...*  |
 
